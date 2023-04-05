@@ -1,0 +1,8 @@
+ #page\#0 {
+          background: #1b56a5;
+}
+
+#page\#7 > div {
+    border-top: 150px solid transparent;
+    background-origin: border-box;
+}

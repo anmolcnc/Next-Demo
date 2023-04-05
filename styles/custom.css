@@ -1,0 +1,15 @@
+.uk-navbar-dropbar {
+	background-image: url(../public/icon-final.svg);
+	background-size:  400px;
+	background-repeat: no-repeat;
+	background-position: bottom right;	
+	top: 90px !important;
+}
+
+.transparent {
+	background: transparent;
+}
+
+.jp-megamenu-dropdown {
+	top: 90px !important;
+}
